@@ -1,0 +1,1 @@
+fting algorithm (it shifts each letter by the specified number according to its order in the alphabet in circle). The second one would be based on
